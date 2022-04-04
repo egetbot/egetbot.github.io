@@ -1,2 +1,3 @@
 # egetbot.github.io
-Bot description
+Twitch Chat Bot
+Egetbot description
