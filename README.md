@@ -1,4 +1,5 @@
-# egetbot.github.io
+# Egetbot
+
 Twitch Chat Bot
 
-Egetbot description
+[egetbot.github.io](https://egetbot.github.io)
