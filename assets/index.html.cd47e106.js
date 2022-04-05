@@ -1,1 +1,0 @@
-const e={key:"v-c6c84b1e",path:"/feedback/",title:"\u041E\u0431\u0440\u0430\u0442\u043D\u0430\u044F \u0441\u0432\u044F\u0437\u044C",lang:"ru-RU",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648898308e3},filePathRelative:"feedback/README.md"};export{e as data};
