@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3857fa0f","path":"/authorization/","title":"Авторизация","lang":"ru-RU","frontmatter":{},"headers":[{"level":2,"title":"Отмена авторизации","slug":"отмена-авторизации","link":"#отмена-авторизации","children":[]}],"git":{"updatedTime":1671799967000},"filePathRelative":"authorization/README.md"}');export{t as data};

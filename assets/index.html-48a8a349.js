@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c6c84b1e","path":"/feedback/","title":"Обратная связь","lang":"ru-RU","frontmatter":{},"headers":[],"git":{"updatedTime":1648898308000},"filePathRelative":"feedback/README.md"}');export{e as data};
